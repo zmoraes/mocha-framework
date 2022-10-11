@@ -1,0 +1,27 @@
+{
+  "name": "mocha-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 40000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zmoraes/mocha-framework.git"
+  },
+  "keywords": [
+    "mocha",
+    "framework",
+    "mocha"
+  ],
+  "author": "zmoraes click.zil@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zmoraes/mocha-framework/issues"
+  },
+  "homepage": "https://github.com/zmoraes/mocha-framework#readme",
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
