@@ -2,7 +2,7 @@
 
 var assert = require('assert');
 
-describe('Suíte - Mathematical Operations', function () {
+describe.skip('Suíte - Mathematical Operations', function () {
 
   this.beforeEach(function (done) {
     

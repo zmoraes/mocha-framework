@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/zmoraes/mocha-framework#readme",
   "devDependencies": {
+    "chai": "^4.3.6",
     "mocha": "^10.0.0"
   }
 }
